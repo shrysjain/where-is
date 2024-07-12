@@ -1,4 +1,4 @@
-# where-is
+# where-is 🔍
 `where-is` is a command-line tool designed to help you find files and directories efficiently. It provides a range of features to enhance your file search capabilities directly from the terminal.
 
 ## Key Features
